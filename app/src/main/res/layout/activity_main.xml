@@ -24,7 +24,8 @@
             app:srcCompat="@mipmap/ic_launcher"
             android:id="@+id/imageView"
             android:layout_weight="1"
-            android:layout_margin="25dp"/>
+            android:layout_margin="25dp"
+            android:scaleType="fitCenter" />
     </FrameLayout>
 
     <LinearLayout
